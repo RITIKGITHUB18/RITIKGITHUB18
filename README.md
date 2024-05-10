@@ -57,10 +57,10 @@ src="https://img.shields.io/github/followers/RITIKGITHUB18?logo=github&style=for
 <b>My GitHub Stats</b>
 <br/><br/>
 <div align="center">
-<img width="390" src="https://github-readme-stats.vercel.app/api?username=RITIKGITHUB18&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=false&show_icons=true" alt="RITIKGITHUB18's GitHub stats" />
- <img width="390"  src="https://github-readme-streak-stats.herokuapp.com/?user=RITIKGITHUB18&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" />
-    <br/>
-    <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RITIKGITHUB18&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=false&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=RITIKGITHUB18&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=false&show_icons=true" alt="RITIKGITHUB18's GitHub stats" />
+ <img width="390"  src="https://github-readme-streak-stats.herokuapp.com/?user=RITIKGITHUB18&stroke=ffffff&background=0d1117&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" />
+    <br/><br/><br/>
+<img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RITIKGITHUB18&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=false&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 </div>
 
 
@@ -68,12 +68,12 @@ src="https://img.shields.io/github/followers/RITIKGITHUB18?logo=github&style=for
 <br/><br/>
 <b>Top Repositories</b>
 <br/><br/>
-<div width="100%" align="center"><a href="https://github.com/RITIKGITHUB18/Quark" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RITIKGITHUB18&repo=Quark&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/RITIKGITHUB18/next-auth" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RITIKGITHUB18&repo=next-auth&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/RITIKGITHUB18/Quark" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RITIKGITHUB18&repo=Quark&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=false&locale=en" /></a><a href="https://github.com/RITIKGITHUB18/next-auth" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RITIKGITHUB18&repo=next-auth&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=false&locale=en" /></a></div>
 <br /><br /><br /><br />
 
 <br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/RITIKGITHUB18/hushh-recruitment" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RITIKGITHUB18&repo=hushh-recruitment&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/RITIKGITHUB18/Facial-Emotion-Recognition" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RITIKGITHUB18&repo=Facial-Emotion-Recognition&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/RITIKGITHUB18/hushh-recruitment" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RITIKGITHUB18&repo=hushh-recruitment&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=false&locale=en" /></a><a href="https://github.com/RITIKGITHUB18/Facial-Emotion-Recognition" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RITIKGITHUB18&repo=Facial-Emotion-Recognition&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=false&locale=en" /></a></div>
 
 <br /><br /><br /><br />
 
