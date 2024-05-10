@@ -54,6 +54,9 @@ src="https://img.shields.io/github/followers/RITIKGITHUB18?logo=github&style=for
 
 <div width="100%" align="center"><a href="https://github.com/RITIKGITHUB18/hushh-recruitment" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RITIKGITHUB18&repo=hushh-recruitment&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/RITIKGITHUB18/Facial-Emotion-Recognition" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RITIKGITHUB18&repo=Facial-Emotion-Recognition&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
-<!--![snakegif](https://github.com/RITIKGITHUB18/RITIIKGITHUB18/blob/output/github-contribution-grid-snake.svg)-->
-![snake animation](https://github.com/RITIKGITHUB18/RITIKGITHUB18/blob/output/github-contribution-grid-snake2.svg)
+<br /><br /><br /><br />
+
+<br /><br /><br /><br />
+<b>Snake Eating My Contribution</b>
+![snake gif](https://github.com/RITIKGITHUB18/RITIKGITHUB18/blob/output/github-contribution-grid-snake.gif)
 
