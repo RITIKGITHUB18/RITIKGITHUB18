@@ -13,7 +13,7 @@
 
 <div align="left">
  <p>* 🌍  I'm based in Pune, India</p>
- <p>* 📄 Know about my experiences <a href="https://drive.google.com/file/d/1faDm8Rj_KNNLo8DGr_N59p9LfWY7EMHL/view?usp=drive_link">
+ <p>* 📄 Know about my experiences <a href="https://drive.google.com/file/d/13vN3Mv9UUBSys29jkjQTH-uek9uN9Zs2/view?usp=sharing">
   Resume
  </a></p>
  <p>* 📄 Know about my experiences <a href="mailto:ritikrog90@gmail.com">
