@@ -13,10 +13,10 @@
 
 <div align="left">
  <p>* 🌍  I'm based in Pune, India</p>
- <p>* 📄 Know about my experiences <a href="https://drive.google.com/file/d/13vN3Mv9UUBSys29jkjQTH-uek9uN9Zs2/view?usp=sharing">
+ <p>* 📄 Know about my experiences <a href="https://drive.google.com/file/d/1dQkDu8Eqcr1iH-Op_wb6Ffrnsnpf_SE1/view?usp=sharing">
   Resume
  </a></p>
- <p>* 📄 Know about my experiences <a href="mailto:ritikrog90@gmail.com">
+ <p>* 📫Please feel free to contact <a href="mailto:ritikrog90@gmail.com">
   ritikrog90@gmail.com
  </a></p>
 <p>* 🚀 I'm currently working on<a href="http://aitpune-web.vercel.app/"> College Website Development</a> + Some Freelancing Projects</p>
